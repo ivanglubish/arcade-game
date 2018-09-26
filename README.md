@@ -6,9 +6,9 @@ UDACITY CLASSIC ARCADE GAME CLONE
 
 3.The attackers make their way on the paved portion of the screen and move in various speeds. 
 
-4.If the player does meet head on with the enemy:
-      1 - the player is placed back to the position.
-      2 - the player change back to a starter image.
+4.If the player does meet head on with the enemy.
+  1 - the player is placed back to the position.
+  2 - the player change back to a starter image.
       
 5.When player reaches the water block, the player's image is change and position change:
       1.The first block change player's image on a Princess-girl;
