@@ -11,8 +11,8 @@ UDACITY CLASSIC ARCADE GAME CLONE
       2 - the player change back to a starter image.
       
 5.When player reaches the water block, the player's image is change and position change:
-      The first block change player's image on a Princess-girl;
-      The second block change player's image on a Pink-girl;
-      The third block change player's image on a Cat-girl;
-      The forth block change player's image on a Horn-girl;
-      The fifth block change player's image on a Boy;
+      1.The first block change player's image on a Princess-girl;
+      2.The second block change player's image on a Pink-girl;
+      3.The third block change player's image on a Cat-girl;
+      4.The forth block change player's image on a Horn-girl;
+      5.The fifth block change player's image on a Boy;
