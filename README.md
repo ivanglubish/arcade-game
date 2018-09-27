@@ -13,7 +13,7 @@ If the player does meet head on with the enemy.
 
 When player reaches the water block, the player's image is change and position change:
 - The first block change player's image on a Princess-girl;
-- he second block change player's image on a Pink-girl;
+- The second block change player's image on a Pink-girl;
 - The third block change player's image on a Cat-girl;
 - The forth block change player's image on a Horn-girl;
 - The fifth block change player's image on a Boy;
