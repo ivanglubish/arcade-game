@@ -1,7 +1,8 @@
 # UDACITY CLASSIC ARCADE GAME CLONE 
 
 - Clone or download the game
-Open index.html file in your browser
+
+- Open index.html file in your browser
 
 ## How the game is work
 This game consists of a Player and Attackers (Bugs). In order to win, the Player's mission is to reach the water (using the arrow keys), without meeting head on with the attackers. The attackers make their way on the paved portion of the screen and move in various speeds.
